@@ -1,5 +1,5 @@
 //Phương Pháp chọn trực tiếp : nguồn nhóm 4
-//cài đặc:
+//cài đặt:
 void selectionSort(int arr[], int n) {
    int i, j, min_idx;
    for (i = 0; i < n-1; i++) {
